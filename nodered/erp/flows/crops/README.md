@@ -1,5 +1,5 @@
-Crops_V7_Trinature
-==================
+Crop's V7 Node-RED ERP (CROP'S)
+===============================
 
 Crop's V7 Node-RED ERP Project CROP'S
 
