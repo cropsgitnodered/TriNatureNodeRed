@@ -1,0 +1,12 @@
+{
+    "name": "Crops_V7_Trinature",
+    "description": "Crop's V7 Node-RED ERP Project CROP'S",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "flow.json",
+            "credentialsFile": "flow_cred.json"
+        }
+    }
+}
