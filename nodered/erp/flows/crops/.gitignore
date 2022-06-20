@@ -1,0 +1,4 @@
+# list of ignored files & folders
+ 
+.flows.json.backup
+.flows_cred.json.backup
